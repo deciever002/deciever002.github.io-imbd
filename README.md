@@ -1,5 +1,7 @@
 # IMDB-clone
-Cloned IMDB App using only HTML,CSS and vanilla JS.
+Cloned IMDB App using only HTML,CSS and vanilla JS. 
+
+Project Live at: https://deciever002.github.io/imdb-clone/
 
 Used OMDB API to get the data of movies
 Link to OMDB API : https://www.omdbapi.com/
